@@ -13,6 +13,7 @@ How to get started:
 
 ->Configure connection strings in PHP & API endpoints in Roblox scripts
 
+DEMO: https://rbxchatlogapi.world/RBXPanel/
 
 
 
